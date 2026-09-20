@@ -1,4 +1,4 @@
-📊 Dataset Features
+Dataset Features
 
 The dataset contains information about loan applicants and whether their loan was approved.
 
@@ -28,7 +28,7 @@ Property_Area: Location of the property (Urban/Semiurban/Rural, encoded as 2/1/0
 
 Loan_Status: Indicates whether the loan was approved (Y/N, encoded as 1/0). This is the target variable.
 
-🔄 Project Workflow
+Project Workflow
 
 The project follows a simple machine-learning pipeline:
 
@@ -47,7 +47,7 @@ Evaluate the trained model using accuracy. The model achieved approximately 79.8
 Prediction
 Test the trained model with new, unseen applicant information and generate loan approval predictions.
 
-🛠️ Requirements & Usage
+Requirements & Usage
 
 The project uses the following Python libraries:
 
